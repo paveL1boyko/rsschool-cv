@@ -1,12 +1,13 @@
 # Boyko Pavel Petrovich
 ![img.png](img.png)
 
-Date of birth:  13.04.1994
-City: Brest 
+**Date of birth**:  13.04.1994
 
-E-mail: pave1.boyk0ok@gmail.com
+**City**: Brest 
 
-Linkedin: https://www.linkedin.com/in/pavel-boyko-a850201b6/
+**E-mail**: pave1.boyk0ok@gmail.com
+
+**Linkedin**: https://www.linkedin.com/in/pavel-boyko-a850201b6/
 
 ## Education:
 1. September 2011 - July 2016 Brest State Technical University, faculty: heat and gas supply and ventilation.
@@ -25,4 +26,13 @@ Linkedin: https://www.linkedin.com/in/pavel-boyko-a850201b6/
   * **Loóna** is the [app](https://loona.app/) that lets you quickly disconnect from a long stressful day and get in the right mood for sleep 
     * Functional responsibilities:
       1. Backend developers
-    
+  
+### Personal qualities:
+  1. he ability to work with a large amount of information
+  1. ability to work in a team
+  1. tendency to self-study
+  1. stress tolerance
+### Additional information:
+  * **English**: A2
+  * **Possibility of business trips**: yes.
+  * **Marital status**: Not married.
