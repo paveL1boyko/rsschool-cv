@@ -14,3 +14,15 @@ Linkedin: https://www.linkedin.com/in/pavel-boyko-a850201b6/
 1. February 2021 - April 2021 Python / Django Programming Course.
 
 ###Work experience:
+
+* September 2018 - December 2020 **1science**, 
+  * 1scraper** is the 1science project based on [Scrapy](https://docs.scrapy.org/en/latest/) to gather 
+  data from institutional repositories, open-access repositories 
+  (like [DOAJ](https://doaj.org/)) and scientific websites (like [Hindawi](https://www.hindawi.com/)).
+    * Functional responsibilities:
+      1. Developing spiders using Python/Scrapy framework
+* June 2021 - now:
+  * **Loóna** is the [app](https://loona.app/) that lets you quickly disconnect from a long stressful day and get in the right mood for sleep 
+    * Functional responsibilities:
+      1. Backend developers
+    
