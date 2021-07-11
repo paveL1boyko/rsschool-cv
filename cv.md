@@ -27,11 +27,22 @@
     * Functional responsibilities:
       1. Backend developers
   
+### Professional skills:
+ * good knowledge of the Python language and the Django framework;
+ * knowledge familiar with Docker;
+ * knowledge of PostgresSQL;
+ * knowledge of Linux OS (bash);
+ * knowledge of Git;
+ * familiar with React;
+ * knowledge of web programming (HTML, CSS, SASS);
+ * knowledge of JavaScript, Jqerry;
+
 ### Personal qualities:
-  1. he ability to work with a large amount of information
+  1. ability to work with a large amount of information
   1. ability to work in a team
   1. tendency to self-study
   1. stress tolerance
+
 ### Additional information:
   * **English**: A2
   * **Possibility of business trips**: yes.
